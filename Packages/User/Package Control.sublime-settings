@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Blade Snippets",
+		"Emmet",
+		"ImprovedMacros",
+		"Laravel Blade Highlighter",
+		"Material Theme",
+		"nginx",
+		"Package Control",
+		"Sass",
+		"TypeScript",
+		"Vue Syntax Highlight"
+	]
+}
