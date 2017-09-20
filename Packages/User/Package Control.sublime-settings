@@ -6,8 +6,11 @@
 	"installed_packages":
 	[
 		"Blade Snippets",
+		"EditorConfig",
+		"EditorConfigSnippets",
 		"Emmet",
 		"ImprovedMacros",
+		"JavaScriptNext - ES6 Syntax",
 		"Laravel Blade Highlighter",
 		"Material Theme",
 		"nginx",
