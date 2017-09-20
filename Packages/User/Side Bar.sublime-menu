@@ -1,0 +1,3 @@
+[
+    { "caption": "Git bash...", "command": "git_bash", "args": { "dirs": []} }
+]
