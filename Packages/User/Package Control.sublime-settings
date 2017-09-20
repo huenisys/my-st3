@@ -9,6 +9,7 @@
 		"EditorConfig",
 		"EditorConfigSnippets",
 		"Emmet",
+		"GitGutter",
 		"ImprovedMacros",
 		"JavaScriptNext - ES6 Syntax",
 		"Laravel Blade Highlighter",
@@ -16,6 +17,9 @@
 		"nginx",
 		"Package Control",
 		"Sass",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
 		"TypeScript",
 		"Vue Syntax Highlight"
 	]
