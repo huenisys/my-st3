@@ -2,10 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"SublimeLinter",
-		"SublimeLinter-jshint",
-		"TypeScript",
-		"Vue Syntax Highlight"
 	],
 	"installed_packages":
 	[
